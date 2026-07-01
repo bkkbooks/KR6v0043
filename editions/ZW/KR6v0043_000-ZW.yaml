@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0043/zw/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 《金藏》新資料考
+  edition:
+    short: zw
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW03/ZW03n0032.xml
+    old_id: ZW03n0032
+hash: sha256:4a2e77522af7b4ff487a4dec2df1db715c27e50486c3ee5d31a0a6b89e9b75a9
